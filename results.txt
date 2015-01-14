@@ -1,0 +1,17 @@
+You are a contestant on Let's Make A Deal. In this game, there are three doors. Behind one
+door is a brand new Corvette; there are goats behind the other two doors. Monty Hall asks you to select
+a door; after you have chosen one, he opens one of the other two doors to reveal a goat behind it. You
+can now choose to stick with your original choice, or to switch to the remaining door.
+
+-Run a thousand trials of this experiment. Can you explain the results?
+	With three doors: 
+		Wins when sticking: 345
+		Wins when switching: 655
+-Bonky Hall, Monty’s brother, starts his own game show in which there are four doors instead of
+three, but with the same setup otherwise. When you choose a door initially, Bonky also opens
+one door, revealing a goat behind it. In addition to your chosen door, there now remain two more
+closed doors. Should you switch to one of these? Why?
+	With four doors: 
+		Wins when sticking: 250
+		Wins when switching:376
+	Explanation: If you do switch, your chances increase from 1/4 to 3/8. 
